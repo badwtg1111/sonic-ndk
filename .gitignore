@@ -1,0 +1,16 @@
+.gradle/
+.idea/
+.classpath
+.project
+build/
+gen/
+gradle.properties
+gradle/
+gradlew
+gradlew.bat
+local.properties
+project.properties
+sonic-ndk.iml
+
+
+

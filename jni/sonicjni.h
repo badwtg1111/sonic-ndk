@@ -3,7 +3,7 @@
  * Method:    _init
  * Signature: (II)J
  */
-jlong Java_org_vinuxproject_sonic_Sonic_initNativeNative
+jlong Java_org_vinuxproject_sonic_Sonic_initNative
   (JNIEnv *, jobject, jint, jint);
 
 /*

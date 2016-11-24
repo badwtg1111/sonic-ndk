@@ -1,5 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
     <string name="app_name">SonicTest</string>
     <string name="hello">Hello, Bill!</string>
+    <string name="speed">Speed</string>
+    <string name="speed_num">1.0</string>
+    <string name="pitch">Pitch</string>
+    <string name="pitch_num">1.0</string>
+    <string name="rate">Rate</string>
+    <string name="rate_num">1.0</string>
+    <string name="play">Play</string>
 </resources>
